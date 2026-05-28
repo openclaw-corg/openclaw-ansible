@@ -1,3 +1,5 @@
+![OpenClaw Ansible banner](docs/assets/readme-banner.jpg)
+
 # OpenClaw Ansible Installer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
